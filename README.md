@@ -26,15 +26,3 @@
 8. Create a build using "Build and Run" inside File > Build Settings, or Ctrl+B
 
 </details>
-<details>
-  <summary><h2>Credits</h2></summary>
-* A Refracted Swindler (UI)
-* Treeki (UI)
-* Double S (Models)
-* KartMakerBrosU (Models)
-* TeridaxXDOO1 (Models)
-* Skarph (Models/Sound)
-* LukeWarnut (Sound)
-* Luke Hackett (Sound)
-
-</details>
